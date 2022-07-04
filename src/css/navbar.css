@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+.navbar-brand {
+  font-size: 30px !important;
+  font-family: "Anton", sans-serif;
+}
+
+.navbar-brand i {
+  color: #b8179f;
+}
+.nav-item:hover {
+  background: linear-gradient(to right, #ce1ab2 0%, #7b20a4 50%, #81139f 100%);
+}
+
+.img-login {
+  width: 35px;
+}
+
+.btn-login {
+  height: 35px;
+  border-radius: 0 !important;
+}
